@@ -34,5 +34,7 @@ public class PracticeString {
 		myObj.nextFloat();
 		PracticeString p = new PracticeString();
 		p.test(userName);
+		
+		System.out.println("test");
 	}
 }
